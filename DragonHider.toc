@@ -1,0 +1,9 @@
+## Interface: 11200
+## Title: DragonHider
+## Author: Sven Kirmess
+## Notes: Hide the ugly action bar gryphen
+## OptionalDeps:
+## Dependencies:
+## SavedVariables:
+## X-Website: https://github.com/skirmess/DragonHider
+DragonHider.xml

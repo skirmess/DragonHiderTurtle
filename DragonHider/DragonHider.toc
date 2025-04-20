@@ -1,9 +1,0 @@
-## Interface: 80000
-## Title: DragonHide
-## Author: Sven Kirmess
-## Notes: Hide the ugly action bar dragon
-## OptionalDeps:
-## Dependencies:
-## SavedVariables:
-## X-Website: https://github.com/skirmess/dragon-hider
-DragonHider.lua
