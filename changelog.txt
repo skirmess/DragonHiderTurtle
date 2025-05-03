@@ -4,7 +4,6 @@ Version 14
  * Forked into new Github project for TurtleWoW
  * Updated TOC for TurtleWoW
  * Changed license to the ISC license
- * Readded the XML file
 
 Version 13
  * Updated for WoW 8.0.0 (BfA)

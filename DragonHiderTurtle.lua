@@ -3,7 +3,11 @@
 
 local Version = 14
 
-function DragonHider_OnEvent(event)
+local initFrame = CreateFrame("Frame", "DragonHiderTurtleInitFrame", UIParent)
+
+initFrame:RegisterEvent("PLAYER_ENTERING_WORLD")
+
+initFrame:SetScript("OnEvent", function()
 
 	if ( event == "PLAYER_ENTERING_WORLD" ) then
 		this:UnregisterEvent("PLAYER_ENTERING_WORLD")
@@ -14,4 +18,4 @@ function DragonHider_OnEvent(event)
 		DEFAULT_CHAT_FRAME:AddMessage(string.format("DragonHider %i loaded.", Version ))
 	end
 
-end
+end)

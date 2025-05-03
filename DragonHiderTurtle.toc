@@ -1,9 +1,9 @@
 ## Interface: 11200
-## Title: DragonHider
+## Title: DragonHiderTurtle
 ## Author: Sven Kirmess
 ## Notes: Hide the ugly action bar gryphen
 ## OptionalDeps:
 ## Dependencies:
 ## SavedVariables:
-## X-Website: https://github.com/skirmess/DragonHider
-DragonHider.xml
+## X-Website: https://github.com/skirmess/DragonHiderTurtle
+DragonHiderTurtle.lua
